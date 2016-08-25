@@ -1,0 +1,66 @@
+/* add your CSS here */
+body {
+    border-style: outset;
+    width: 340px;
+    height: 750px;
+}
+
+#Title {
+    color: #af0000;
+    font-family: 'Dosis',sans-serif;
+}
+
+div {
+    border-style: groove;
+    padding: 15px;
+}
+
+h3 {
+    padding-left: 10px;
+}
+
+img {
+    padding-bottom: 15px;
+}
+
+p {
+    padding-left: 10px;
+    font-family: 'Josefin Sans',sans-serif;
+}
+
+.intFact {
+    font-style: italic;
+}
+
+ul {
+    font-family: 'Dosis',sans-serif;
+}
+
+#fact1 {
+    color: #12ab68;
+}
+
+#fact2 {
+    color: #aa6b68;
+}
+
+#fact3 {
+    color: #12a0fd;
+}
+
+#fact4 {
+    color: #a0a0a0;
+}
+
+span {
+    font-weight: 700;
+}
+
+li {
+    list-style-type: none;
+}
+
+q {
+    color: #f60;
+    font-weight: 700;
+}
